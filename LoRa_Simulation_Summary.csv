@@ -1,0 +1,15 @@
+Metric,Value
+Total Packets Transmitted by Node 1 (Rome),3330
+Total Unique Packet IDs Seen at NodeRM,1563
+Total ACKed Packets,1533
+ACKed on First Try,1163
+ACKed After Retransmission,370
+Total NACKed Packets,400
+Retransmitted Packets,400
+Retransmitted and ACKed,370
+Retransmitted and Dropped (NACKed),30
+Total Collisions Detected,1751
+Packets Ignored due to Duplicates,1331
+Overall Success Rate (ACKed/Total Seen),98.08%
+Retransmission Success Rate (ACKed/Retx),92.50%
+Retransmission Failure Rate (Dropped/Retx),7.50%
